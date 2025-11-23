@@ -102,4 +102,9 @@ Menu-based interface to run all modules
 │── docs/
 │   └── Discrete Final Project.pdf
 │── README.md
+![Project image-2](https://github.com/user-attachments/assets/040788dd-d320-4322-aeaf-8ea4dc7e1aa8)
+![Project Image](https://github.com/user-attachments/assets/1d4cb216-1ef5-4324-9516-d5edc51ccfdd)
+
+
+
 
